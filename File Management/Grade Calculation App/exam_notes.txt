@@ -1,0 +1,3 @@
+Rick  Grimes:100,80,60
+Jon Snow:45,65,57
+Tyler Durden:70,66,65
